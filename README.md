@@ -1,1 +1,3 @@
-# lutter_mynotes
+# mynotes
+
+A new Flutter project.

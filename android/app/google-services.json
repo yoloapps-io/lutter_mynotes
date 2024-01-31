@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "198460282284",
+    "project_id": "yoloapps-mynotes-flutter",
+    "storage_bucket": "yoloapps-mynotes-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198460282284:android:8cecea09c7846d5b435609",
+        "android_client_info": {
+          "package_name": "com.example.mynotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCroUrbFwCbimUN0n7KNBIbRJamFkbDMlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
